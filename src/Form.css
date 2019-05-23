@@ -1,0 +1,28 @@
+.dd1{border:1px solid whitesmoke;
+	
+    width: 80%;
+    height: 3000px;
+
+    margin: auto;
+            }
+            .aavatar{
+                height: 200px;
+      border-radius: 50%;
+      padding:  100px;
+      float: left;
+    
+            }
+            .sss3{
+    padding-top: 120px;
+            }
+            .aa2{
+            width: 400px;
+    
+    padding: 25px;
+      float: left;
+            }
+            .ww2{
+                order: 1px solid white;
+    height: 300px
+    
+            }
